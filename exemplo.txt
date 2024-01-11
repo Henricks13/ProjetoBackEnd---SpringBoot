@@ -11,5 +11,5 @@ Repositorio de Usuario. OK
 Serviço de produto: OK
     obterTodos, obterPorId, adicionar, atualizar, deletar.
 
-Controller de produto:
+Controller de produto: OK
     obterTodos, obterPorId, adicionar, atualizar, deletar.
